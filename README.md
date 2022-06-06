@@ -10,3 +10,4 @@ Readme listing all ML papers:
 - **PALM - Pathways Large Language Model** - large language models: https://www.youtube.com/watch?v=yi-A0kWXEO4
 - **BERT Topic - Topic Modelling** - https://www.pinecone.io/learn/bertopic/
 - https://arxiv.org/pdf/1912.03211.pdf
+- **ANN from scratcg - https://www.youtube.com/watch?v=w8yWXqWQYmU
